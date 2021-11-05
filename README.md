@@ -1,10 +1,3 @@
-### Hi there 👋
-
-
-
-- 🔭 Today I work with front-end 
-- 🌱 Learning React
-
 ### Hey I'm Gabriel Dias 
 
 
