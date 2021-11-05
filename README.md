@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Today I work with front-end 
+- 🌱 Learning React
 
 ### Hey I'm Gabriel Dias 
 
